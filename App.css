@@ -1,0 +1,14 @@
+.black{
+
+  background-color: black;
+
+}
+.container{
+  border: 5px solid black;
+  width: 45%;
+
+}
+.col-1{
+  width: 85px;
+  height: 85px;
+}
